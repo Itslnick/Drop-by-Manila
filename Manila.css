@@ -1,0 +1,78 @@
+
+  /*------- cover-page -------*/
+
+.carousel {
+  text-align: center;
+   position:relative;
+   
+}
+#typing-text{
+   white-space: nowrap;
+   overflow: hidden;
+   animation: running-text 3s linear infinite;
+}
+
+@keyframes typing-text {
+   0% {
+      width: 0;
+   }
+   100%{
+      width: 100%;
+   }
+}
+.carousel img {
+  width: 1300px;
+   height: 550px;
+ box-shadow: 0 0 30px;
+   color: aqua;
+   border-radius: 2%;
+}
+.carousel-text h2{
+   position:absolute;
+   top: -60px;
+   left: 450px;
+   color: #fff;
+   padding: 20px;
+   font-size: 70px; 
+   font-family:sans-serif;
+   background: linear-gradient(to right,black,red);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color:transparent;
+}
+
+.carousel-text h1{
+   position:absolute;
+   top: 4%;
+   left: 500px;
+   color: orange;
+   padding: 20px;
+   font-size: 80px;
+   font-family: algerian;
+}
+.carousel-text a{
+   position:absolute;
+   top:80%;
+   left: 580px;
+   color: #fff;
+   padding: 20px;
+   font-size: 30px;
+   font-family: algerian;
+   background: black;
+   box-shadow: 0 0 50px;
+   transition: all 0.3s ease;
+   color: aqua;
+   border-radius: 10%;
+   text-decoration: none;
+      
+}
+.carousel-text p{
+   position:absolute;
+   top:57%;
+   left: 320px;
+   color: lightgoldenrodyellow;
+   padding: 20px;
+   font-size: 30px;
+   font-family: algerian;
+}
+   
+ 

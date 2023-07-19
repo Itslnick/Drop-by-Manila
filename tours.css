@@ -1,0 +1,90 @@
+ 
+body{
+   background: black;
+}
+   div{
+  border: 1px solid black;
+   text-align: center;
+    width: 900px;
+    height: 520px;
+    margin-left: 200px;
+    box-shadow: 0 0 30px;
+    border-radius: 20px;
+      color: crimson;
+      background: lightgray;
+}
+.a{
+   width: 250px;
+   height: 150px;
+   float: left;
+   padding-left: 15px;
+  
+}
+.b{
+   width: 250px;
+   height: 150px;
+   float: center;
+   
+}
+.c{
+   width: 250px;
+   height: 150px;
+   float: right;
+   padding-right: 15px;
+}
+
+/*-----chinatown-divisoria ------*/
+
+
+
+  .div{
+  border: 1px solid black;
+   text-align: center;
+    width: 900px;
+    height: 520px;
+    margin-left: 200px;
+    box-shadow: 0 0 30px;
+    border-radius: 20px;
+      color: aqua;
+      background: antiquewhite;
+}
+
+
+.D{
+   width: 400px;
+   height: 150px;
+   float: left;
+   padding-left: 15px;
+  
+  
+}
+   
+  .E{
+   width: 400px;
+   height: 150px;
+   float: right;
+   padding-right: 15px;
+  
+} 
+
+h1{
+   font-size: 55px;
+   font-family: algerian;
+   color: black;
+   margin-bottom: 1%;
+}
+h2{
+   font-size: 30px;
+   font-family: algerian;
+   color: black;
+   margin-left: -80%;
+   margin-top: 1%;
+}
+
+
+p{
+   font-size: 30px;
+   font-family: algerian;
+   color: black;
+   margin-top: -3%;
+}
